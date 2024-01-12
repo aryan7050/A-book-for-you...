@@ -1159,21 +1159,21 @@ body {
 
 .cover-front:nth-child(1) {
   text-align: center;
-  background: linear-gradient(#ddafdb, #ddafdb) 50% 50%/80% 86% no-repeat,
+  background: linear-gradient(#a11485, #a11485) 50% 50%/80% 86% no-repeat,
     linear-gradient(#ffffff, #ffffff) 50% 50%/90% 93% no-repeat,
-    linear-gradient(#d69bc2, #d69bc2) no-repeat;
+    linear-gradient(#cc0c8c, #cc0c8c) no-repeat;
 }
 .cover-front:nth-child(1) h1 {
   font-family: "Lora", serif;
   font-size: 45px;
-  color: #ded00c;
+  color: #ff0000;
   margin-top: 30px;
   text-transform: uppercase;
 }
 .cover-front:nth-child(1) h2 {
   font-family: "EB Garamond", serif;
   font-size: 24px;
-  color: #134a78;
+  color: #ff0000;
   position: relative;
   top: 40%;
 }
